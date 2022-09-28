@@ -39,8 +39,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" width="40"/>
 </div><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rixardy&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rixardy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rixardy&show_icons=true&theme=radical)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rixardy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫Contatos:
 <div>
