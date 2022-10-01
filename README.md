@@ -29,6 +29,8 @@
 
 ## 🌱Aprendendo:
 <div>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" width="40"/>
 <img src="https://miro.medium.com/max/404/0*I4KFArErBehs6aaU.png" height="40" width="40"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" width="40"/>
