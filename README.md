@@ -2,7 +2,7 @@
 
 ✅ Analista de Testes de Software.<br>
 🗺️ De Salvador-BA, Brasil.<br>
-📚 No momento, estou aprendendo tudo sobre qualidade de software.<br>
+📚 No momento, estou desenvolvendo habilidades em automação.<br>
 🎮 Meus hobbies incluem assistir filmes e séries, tocar violão, praia e games.<br>
 
 <!--
