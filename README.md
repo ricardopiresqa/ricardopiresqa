@@ -4,16 +4,13 @@
 🗺️ De Salvador-BA, Brasil.<br>
 📚 No momento, estou aprendendo tudo sobre qualidade de software.<br>
 🎮 Meus hobbies incluem assistir filmes e séries, tocar violão, praia e games.<br>
-🎯 Meta 2023: Inglês fluente.
 
 <!--
 
 **rixardy/rixardy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## Sobre mim:
-- 🔭 Graduado em Sistemas de Informação, Analista de Testes de Software em formação, com 7 anos de experiência coordenando e liderando equipe no setor de T.I, cuidando da manutenção de sites e sistemas da empresa, participando do levantamento de requisitos, testes e homologação de sistemas feitos por empresas terceirizadas, suporte e treinamento de usuários nos diversos sistemas da instituição.
-- 🌱 Cursando Banco de Dados - Data Analytics.
-- ✨ Nas horas vagas estudando desenvolvimento de games com Lua e Defold e produzindo vídeos pro youtube.
+- 🔭 Profissional de QA com mais de 2 anos de experiência, especializado em garantir que todos os aspectos do desenvolvimento de software atendam aos mais altos padrões de qualidade. Experiência em testes funcionais, regressivos, exploratórios, de interface (UI) e aceitação, com foco na qualidade sistêmica e na entrega de funcionalidades ideais. Conhecimento em ferramentas de automação de testes e boas práticas de integração contínua, com forte habilidade em comunicação e colaboração em equipes ágeis.
 
 ## 🚀Habilidades com:
 
