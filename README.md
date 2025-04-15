@@ -28,8 +28,8 @@
 <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-scrum-agile-flaticons-lineal-color-flat-icons-6.png" height="40" width="40"/>
 </div>
 
-## 🌱Aprendendo:
-<!--div>
+<!--## 🌱Aprendendo:
+div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" width="40"/>
 <img src="https://miro.medium.com/max/404/0*I4KFArErBehs6aaU.png" height="40" width="40"/>
@@ -46,7 +46,7 @@
 
 ## 📫Contatos:
 <div>
-<a href = "mailto:rixardy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:ricardopires.qa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ricardopiress/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
