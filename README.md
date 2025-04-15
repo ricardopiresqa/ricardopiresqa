@@ -15,17 +15,21 @@
 ## 🚀Habilidades com:
 
 <div>
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="40"/>
 <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-scrum-agile-flaticons-lineal-color-flat-icons-6.png" height="40" width="40"/>
 </div>
 
 ## 🌱Aprendendo:
-<div>
+<!--div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" width="40"/>
 <img src="https://miro.medium.com/max/404/0*I4KFArErBehs6aaU.png" height="40" width="40"/>
@@ -36,7 +40,7 @@
 <img src="https://defold.com/images/logo/defold/logo/logo-ver-classic-white-160.png" height="35" width="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" width="40"/>
-</div><br>
+</div--><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rixardy&show_icons=true&theme=radical)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rixardy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
