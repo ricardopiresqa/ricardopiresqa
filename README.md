@@ -18,15 +18,6 @@ App de gerenciamento de biblioteca PSN, Xbox e Steam com:
 
 ---
 
-🔹 **Confesso** · https://confesso.app.br  
-App de confissão anônima espiritual com sátira:
-- confesse seus pecados
-- acumule peso na alma
-- ranking dos condenados
-- sermões gerados por IA
-
----
-
 🔹 **AchaJogo** · https://achajogo.com.br  
 Portal de conteúdo gamer:
 
@@ -36,6 +27,27 @@ Portal de conteúdo gamer:
 - espaço para comunidade e engajamento
 
 > Um hub de conteúdo e economia para criadores e gamers.
+
+---
+
+🔹 **Confesso** · https://confesso.app.br  
+App de confissão anônima espiritual com sátira:
+- confesse seus pecados
+- acumule peso na alma
+- ranking dos condenados
+- sermões gerados por IA
+
+📱 App (Em breve)
+
+---
+
+🔹 **StreamCore** · https://streamcore.app.br  
+Plataforma de streaming que agrega Twitch, YouTube e Kick:
+- rankings de doadores
+- notificações de live
+- página de links e apoiadores
+
+📱 App (Em breve)
 
 ---
 
