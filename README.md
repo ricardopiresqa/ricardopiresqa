@@ -1,13 +1,13 @@
 ## 🧪 Ricardo Pires
 
-QA Engineer que constrói sistemas.
+Engenheiro de QA que constrói sistemas.
 Qualidade não é etapa, é o produto.
 
-🔹 Senior QA · CTFL (ISTQB) · Pós em Testes de Software
+🔹 QA Sênior · CTFL (ISTQB) · Pós em Testes de Software
 
 ---
 
-## 🚀 Core Products (em produção)
+## 🚀 Produtos Principais (em produção)
 
 🔹 **CataloGGames** · https://cataloggames.com.br  
 App de gerenciamento de biblioteca PSN, Xbox e Steam com:
@@ -15,6 +15,15 @@ App de gerenciamento de biblioteca PSN, Xbox e Steam com:
 - histórico de jogos
 - estatísticas pessoais
 - organização de backlog gamer
+
+---
+
+🔹 **Confesso** · https://confesso.app.br  
+App de confissão anônima espiritual com sátira:
+- confesse seus pecados
+- acumule peso na alma
+- ranking dos condenados
+- sermões gerados por IA
 
 ---
 
@@ -30,20 +39,20 @@ Portal de conteúdo gamer:
 
 ---
 
-## 🧠 Autonomous Systems (open / research)
+## 🧠 Sistemas Autônomos (open source / pesquisa)
 
 ---
 
-🔹 **Pink**  
+🔹 **[Pink](https://github.com/ricardopiresqa/pink)**  
 Loop autônomo de execução com contexto e agentes:
-- orchestration de tarefas
+- orquestração de tarefas
 - execução baseada em estado
 - arquitetura modular de agentes
 - RAG aplicado ao fluxo de dev
 
 ---
 
-🔹 **Cérebro**  
+🔹 **[Cérebro](https://github.com/ricardopiresqa/cerebro)**  
 Motor cognitivo pessoal:
 - RAG com ChromaDB
 - integração com Obsidian vault
@@ -52,7 +61,7 @@ Motor cognitivo pessoal:
 
 ---
 
-## 🧪 Open Source & Experimentos
+## 🧪 Código Aberto & Experimentos
 
 - automações de QA
 - spikes de IA aplicada
@@ -72,11 +81,11 @@ Motor cognitivo pessoal:
 
 ## 🧠 Filosofia
 
-- Quality is the product
-- Systems > Features
-- Automation > Manual effort
-- QA is not testing, it's engineering reliability
-- Agents are first-class workers in software systems
+- Qualidade é o produto
+- Sistemas > Funcionalidades
+- Automação > Esforço manual
+- QA não é teste, é engenharia de confiabilidade
+- Agentes são trabalhadores de primeira classe em sistemas de software
 
 ---
 
