@@ -43,7 +43,7 @@ App de confissão anônima espiritual com sátira:
 
 🔹 **StreamCore** · https://streamcore.app.br  
 Plataforma de streaming que agrega Twitch, YouTube e Kick:
-- rankings de doadores
+- rankings de streamers
 - notificações de live
 - página de links e apoiadores
 
